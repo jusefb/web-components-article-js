@@ -1,0 +1,8 @@
+{
+  "name": "js-yw1shl",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@webcomponents/webcomponentsjs": "^2.2.10"
+  }
+}
