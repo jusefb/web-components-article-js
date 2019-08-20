@@ -100,7 +100,7 @@ class RsvpCounter extends HTMLElement {
           <button type="button" class="vc-like-btn button">Like</button>
 
   <br>
-  <sub>Powerd by Native JS</sub>
+  <sub>Powered by Native JS</sub>
       </div>
     `;
 
